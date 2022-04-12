@@ -26,4 +26,3 @@ The challenge is to implement an analytics dashboard like this one with the desc
     - Multi-lingual support.
 
 Note: The spec is vague on purpose. Please document in a separate markdown file any decisions you've made indicating your analysis and the justification for your choice. That documentation will be considered as part of the assessment.
-
